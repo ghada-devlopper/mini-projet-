@@ -160,25 +160,7 @@ ENGINE = InnoDB;
 
 -- ----------------------------------------------------- 
 
--- Table `mydb1`.`client` 
-
--- ----------------------------------------------------- 
-
-CREATE TABLE IF NOT EXISTS `mydb1`.`client` ( 
-
-  `idclient` INT NOT NULL, 
-
-  `nom` VARCHAR(45) NULL, 
-
-  `prenom` VARCHAR(45) NULL, 
-
-  `adresse` VARCHAR(45) NULL, 
-
-  `tel` VARCHAR(45) NULL, 
-
-  PRIMARY KEY (`idclient`)) 
-
-ENGINE = InnoDB; 
+-- 
 
   
 
@@ -186,39 +168,9 @@ ENGINE = InnoDB;
 
 -- ----------------------------------------------------- 
 
--- Table `mydb1`.`client_has_produit` 
 
 -- ----------------------------------------------------- 
 
-CREATE TABLE IF NOT EXISTS `mydb1`.`client_has_produit` ( 
-
-  `client_idclient` INT NOT NULL, 
-
-  `produit_idproduit` INT NOT NULL, 
-
-  PRIMARY KEY (`client_idclient`, `produit_idproduit`), 
-
-    CONSTRAINT `fk_client_has_produit_client1` 
-
-    FOREIGN KEY (`client_idclient`) 
-
-    REFERENCES `mydb1`.`client` (`idclient`) 
-
-    ON DELETE NO ACTION 
-
-    ON UPDATE NO ACTION, 
-
-  CONSTRAINT `fk_client_has_produit_produit1` 
-
-    FOREIGN KEY (`produit_idproduit`) 
-
-    REFERENCES `mydb1`.`produit` (`idproduit`) 
-
-    ON DELETE NO ACTION 
-
-    ON UPDATE NO ACTION) 
-
-ENGINE = InnoDB; 
 
   
 
