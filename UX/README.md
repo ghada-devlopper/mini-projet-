@@ -41,7 +41,7 @@ on a créé 4 maquettes :
 
  
 
-<img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/UX/adobe1.png"
+<img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/UX/consulter.png"
      alt="acceuil"
       />
     
@@ -50,7 +50,7 @@ Figure1 : acceuil
 
    **Lorsque on clique sur l’icône + ,nous emmène à la page ajout contient un formulaire permet de collecte les informations de l’article ajoutée :son code,nom,couleur,taille, prix et photo du l’article.**
   
-<img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/UX/adobe%202.png"
+<img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/UX/ajouter.png"
      alt="ajouter"
       />
        <p align="center" >
@@ -62,7 +62,7 @@ Figure2 : page ajouter
   
 **Lorsque on clique sur l’icône yeux ,nous emmène à la page modifier contient un formulaire permet de modifier les informations d’un article existant  :son code,nom,couleur,taille, prix , stock et de changer la photo du l’article.**  
 
-<img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/UX/adobe%203.png"
+<img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/UX/modifier.png"
      alt="modifier"
       />
       <p align="center" >
@@ -71,7 +71,7 @@ Figure3 : page modifier
 
 **Lorsque on clique sur l’icône corbeille  ,nous emmène à la page supprimer contient un formulaire permet de supprimer les informations d’un article  existant :son code,nom,couleur,taille et photo du l’article.**  
 
-<img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/UX/adobe%204.png"
+<img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/UX/supprimer.png"
      alt="supprimer"
       />
       <p align="center" >
@@ -79,7 +79,7 @@ Figure4 : page supprimer
 </p>
 
  **voici une image qui expliques les relations entre les 4 maquettes**
- <img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/UX/adobe%205.png"
+ <img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/UX/relation.png"
      alt="relation"
       />
       <p align="center" >
