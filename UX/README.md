@@ -42,13 +42,11 @@ on a créé 4 maquettes :
  
 
 <img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/UX/adobe1.png"
-     alt="maquettes"
+     alt="acceuil"
       />
     
-      <p align="center" >
-Figure1 : maquettes1 
-</p>
-      
+Figure1 : acceuil 
+
 
    **Lorsque on clique sur l’icône + ,nous emmène à la page ajout contient un formulaire permet de collecte les informations de l’article ajoutée :son code,nom,couleur,taille, prix et photo du l’article.**
   
