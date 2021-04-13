@@ -7,8 +7,6 @@ En utilisant « MySQl workbanch » nous avons créé la base de donnéé .
 elle contient 3 table : 
 
 
-**table client qui contient les informations des clients ** 
-
 **tables catégorie ** 
 
 **table produit ** : 
@@ -17,7 +15,7 @@ elle contient 3 table :
 
  
 
-<img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/DataBase/basee.png"
+<img  src="https://github.com/ghada-devlopper/mini-projet-/blob/main/DataBase/base%20de%20donn%C3%A9e1.png"
      alt="base de donnée"
       />
     
