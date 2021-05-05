@@ -7,4 +7,4 @@
 **page modifier**
 <img src='https://github.com/ghada-devlopper/mini-projet-/blob/main/frontend/modifier1.jpg'>
 **page supprimer**
-<img src='https://github.com/ghada-devlopper/mini-projet-/blob/main/frontend/supprimer.jpg> 
+<img src='https://github.com/ghada-devlopper/mini-projet-/blob/main/frontend/supprimer.jpg'> 
